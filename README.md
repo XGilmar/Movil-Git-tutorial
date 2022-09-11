@@ -28,3 +28,5 @@
 ```bash
    git clone --depth=1 https://github.com/mayTermux/myTermux.git
 ```
+4. Por último ingresa los siguientes comandos.
+- `cd myTermux`
