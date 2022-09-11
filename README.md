@@ -33,3 +33,4 @@
 - `export COLUMNS LINES`
 > **Atención!**
 > Antes de ingresar el siguiente comando debes de alejar la pantalla de tu terminal lo más que puedas. ➡️⬅️
+- `./install.sh`
