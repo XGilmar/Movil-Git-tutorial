@@ -9,7 +9,6 @@
 
 ## Imagen        
 
-<div align="center" >
-
-<img style="border-radius:50px;" src="https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg">
+<div align="center">
+<img src="https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg">
 </div>
