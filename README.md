@@ -15,4 +15,4 @@
 
 ## Instalación 
 
- Debes descarga la aplicación `Termux` en su última versión [aquí]()
+ Debes descarga la aplicación `Termux` en su última versión [aquí](https://f-droid.org/packages/com.termux/)
