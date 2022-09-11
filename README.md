@@ -16,6 +16,7 @@
 ## Instalación 
 
 > Descarga la aplicación `Termux` en su última versión **[aquí.](https://f-droid.org/packages/com.termux/)**
+><br><br>
 > Una vez de haber `instalado` correctamente la aplicación ingresar los siguientes comandos.
 
   
