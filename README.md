@@ -35,3 +35,5 @@
 > **Note**
 > Antes de ingresar el siguiente comando debes de alejar la pantalla de tu terminal lo más que puedas. ➡️⬅️ O de lo contrario te mostrará un error.
 - `./install.sh`
+
+https://vm.tiktok.com/ZMNEqUk5N/
