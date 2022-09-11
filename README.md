@@ -37,6 +37,7 @@
 - `./install.sh`
 
 ## Vídeo
-<a href="https://vm.tiktok.com/ZMNEqUk5N/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+Si no tuviste muy claro los pasos de instalación puedes mirar el video tutorial. Presiona el ícono.
+> <a href="https://vm.tiktok.com/ZMNEqUk5N/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 
 
