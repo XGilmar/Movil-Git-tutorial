@@ -23,7 +23,7 @@
 - `pkg update && pkg upgrade`
 - `pkg i -y git bc`
 
-- Ahora debes de `clonar` este repositorio en tu terminal.
+3. Ahora debes de `clonar` este repositorio en tu terminal.
 ```bash
    git clone --depth=1 https://github.com/mayTermux/myTermux.git
 ```
