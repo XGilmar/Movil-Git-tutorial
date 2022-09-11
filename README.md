@@ -9,7 +9,7 @@
 
 ## Imagen        
 
-<div align="center" style="border-radius:20">
+<div align="center" >
 
-[![IMG-20220910-193721.jpg](https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg)](https://postimg.cc/zLq3LXWr)
+<img style="border-radius:50px;" src="https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg">
 </div>
