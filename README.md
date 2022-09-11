@@ -19,9 +19,9 @@
 1. Una vez de haber `instalado` correctamente la aplicación debes de ingresar ahora los siguientes comandos.
 
   
-- `termux-setup-storage`
-- `pkg update && pkg upgrade`
-- `pkg i -y git bc`
+ - `termux-setup-storage`
+ - `pkg update && pkg upgrade`
+ - `pkg i -y git bc`
 
 3. Ahora debes de `clonar` este repositorio en tu terminal, esto hará que tu terminal se vea mucho mejor.
    Fuente del repo [myTermux](https://github.com/mayTermux/myTermux)
@@ -31,3 +31,5 @@
 4. Por último ingresa los siguientes comandos.
 - `cd myTermux`
 - `export COLUMNS LINES`
+> **Atención!**
+> Antes de ingresar el siguiente comando debes de alejar la pantalla de tu terminal lo más que puedas. ➡️⬅️
