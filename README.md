@@ -14,3 +14,5 @@
 </div>
 
 ## Instalación 
+
+ Descarga la aplicación `Termux` en su última versión 
