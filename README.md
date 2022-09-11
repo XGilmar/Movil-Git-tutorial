@@ -21,3 +21,4 @@
   
 - `termux-setup-storage`
 - `pkg update && pkg upgrade`
+- `pkg i -y git bc`
