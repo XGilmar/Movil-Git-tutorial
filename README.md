@@ -24,7 +24,7 @@
 - `pkg i -y git bc`
 
 3. Ahora debes de `clonar` este repositorio en tu terminal, esto hará que tu terminal se vea mucho mejor.
-   Fuente del repo [aquí](https://github.com/mayTermux/myTermux)
+   Fuente del repo [myTermux](https://github.com/mayTermux/myTermux)
 ```bash
    git clone --depth=1 https://github.com/mayTermux/myTermux.git
 ```
