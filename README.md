@@ -15,4 +15,4 @@
 
 ## Instalación 
 
- Descarga la aplicación `Termux` en su última versión 
+ Debes descarga la aplicación `Termux` en su última versión [aquí]()
