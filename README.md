@@ -30,3 +30,4 @@
 ```
 4. Por último ingresa los siguientes comandos.
 - `cd myTermux`
+- `export COLUMNS LINES`
