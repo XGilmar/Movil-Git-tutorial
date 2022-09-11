@@ -31,6 +31,6 @@
 4. Por último ingresa los siguientes comandos.
 - `cd myTermux`
 - `export COLUMNS LINES`
-> **Atención!**
+> **Warning**
 > Antes de ingresar el siguiente comando debes de alejar la pantalla de tu terminal lo más que puedas. ➡️⬅️
 - `./install.sh`
