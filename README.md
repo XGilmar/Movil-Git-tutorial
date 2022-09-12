@@ -11,9 +11,16 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg">
+ 
+>  **<p align="left">Segunda imagen</p>**
+
+<img src="https://i.postimg.cc/c4BsBXXb/IMG-20220911-202935.jpg">
 </div>
 
 ## Instalación 
+
+<details>
+<summary>ver</summary>
 
 > Descarga la aplicación `Termux` en su última versión **[aquí.](https://f-droid.org/packages/com.termux/)**
 ><br><br>
@@ -36,6 +43,8 @@
 > **Note**
 > Antes de ingresar el siguiente comando debes de alejar la pantalla de tu terminal lo más que puedas. ➡️⬅️ O de lo contrario te mostrará un error.
 - `./install.sh`
+
+</details>
 
 ## Vídeo
 Si no tuviste muy claro los pasos de instalación puedes mirar el video tutorial. Presiona el ícono.
