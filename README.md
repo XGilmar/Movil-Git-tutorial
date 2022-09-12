@@ -3,7 +3,7 @@
 <p>Usar Git y Github desde mi teléfono se ha vuelto algo muy práctico y fácil de usar. En las siguientes sesiones observarás como tenerlo en tu dispositivo.</p>
 
 <div align="center" style="display: inline_block"><br>
- <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />        
+ <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />        
 </div> 
 
 
