@@ -10,11 +10,11 @@
 ## Vista        
 
 <div align="center">
-<img src="https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg">
+<img height="400em" src="https://i.postimg.cc/q73K5Nvz/IMG-20220910-193721.jpg">
  
 >  **<p align="left">Segunda imagen</p>**
 
-<img src="https://i.postimg.cc/c4BsBXXb/IMG-20220911-202935.jpg">
+<img height="400em" src="https://i.postimg.cc/c4BsBXXb/IMG-20220911-202935.jpg">
 </div>
 
 ## Instalación 
